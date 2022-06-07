@@ -1,0 +1,6 @@
+Numeros desordenados
+{4,3,2,1,5}
+Numeros ordenados:
+ 1 2 3 4 5
+Total de elementos del arreglo:5
+Suma de los elementos:15
